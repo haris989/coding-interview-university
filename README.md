@@ -9,7 +9,7 @@
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
-
+> *Give your best*
 Translations:
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
