@@ -3,9 +3,9 @@
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
+> You probably won't have to study as much as I did. Anyway, everything you need is provided here.
 >
-> The items listed here will prepare you well for an interview at just about any software company,
+> The items listed here will help you prepare well for an interview at just about any software company,
 > including the giants: Amazon, Facebook, Google or Microsoft.
 >
 > *Best of luck to you!*
@@ -37,7 +37,7 @@ Translations in progress:
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+This is my multi-month study plan for going from a web developer (self-taught, no CS degree) to software engineer for a large company.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
